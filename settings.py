@@ -1,11 +1,11 @@
 
-bot_token = '1717779681:AAFvSqtqL8mCyQzCWAuaMWen-XS3K-ClB3o'  # Токен бота Telegram
-CHANNEL_ID = 1398747165 # id канала, куда будет отсылаться информация, id без -100 в начале (например: 124873248) (узнать его можно в @getmyid_bot)
+bot_token = '5292289867:AAE3tt0Z1PGGrRpYvgYaJa6o--bGAjo6Fvo'  # Токен бота Telegram
+CHANNEL_ID = 1784041057 # id канала, куда будет отсылаться информация, id без -100 в начале (например: 124873248) (узнать его можно в @getmyid_bot)
 
-admin_id_1 = 412199049 # id первого администратора
-admin_id_2 = 949877052 # id второго администратора
+admin_id_1 = 1370967532 # id первого администратора
+admin_id_2 = 279585801 # id второго администратора
 
-bot_login = 'utiputinka_bot' # Айди бота (без @) например, Gydra24 (узнать его можно в @getmyid_bot)
+bot_login = 'stilak_vlados_bot' # Айди бота (без @) например, Gydra24 (узнать его можно в @getmyid_bot)
 ref_percent = 10 # Процент реферальной системы
 
 QIWI_NUMBER = '79670347414'    # номер Qiwi (Без знака "+")
