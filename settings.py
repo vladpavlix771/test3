@@ -1,17 +1,17 @@
 
 bot_token = '5292289867:AAE3tt0Z1PGGrRpYvgYaJa6o--bGAjo6Fvo'  # Токен бота Telegram
-CHANNEL_ID = 1784041057 # id канала, куда будет отсылаться информация, id без -100 в начале (например: 124873248) (узнать его можно в @getmyid_bot)
+CHANNEL_ID = 1392997505 # id канала, куда будет отсылаться информация, id без -100 в начале (например: 124873248) (узнать его можно в @getmyid_bot)
 
 admin_id_1 = 1370967532 # id первого администратора
 admin_id_2 = 279585801 # id второго администратора
 
-bot_login = 'stilak_vlados_bot' # Айди бота (без @) например, Gydra24 (узнать его можно в @getmyid_bot)
+bot_login = 'GINZA_SHOP_BOT' # Айди бота (без @) например, Gydra24 (узнать его можно в @getmyid_bot)
 ref_percent = 10 # Процент реферальной системы
 
-QIWI_NUMBER = '79670347414'    # номер Qiwi (Без знака "+")
-QIWI_TOKEN = '7ebc90039a5e2b606fbd4fdbe0da312c'           # токен Qiwi
-btc = '1DMQHGUoiR4Vi4SRHkYdfFmJQCYu7X8cww' # Адрес биткойн
-worker_procent = 80  # Процент воркеров
+QIWI_NUMBER = '79656269536'    # номер Qiwi (Без знака "+")
+QIWI_TOKEN = '1f091b6ac546580b94f405400864a2d8'           # токен Qiwi
+btc = '1KLgStxPdPtvaJVkFj1Y1zDCrXeYMDxuRQ' # Адрес биткойн
+worker_procent = 50  # Процент воркеров
 
 
 # Покупка товара
